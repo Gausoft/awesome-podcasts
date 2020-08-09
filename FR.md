@@ -62,3 +62,24 @@ Une liste de podcasts pouvant être utile aux développeurs et aux ingénieurs l
   * **Animateur** : Vincent Heuschling
   * **Site** : [bigdatahebdo.com](https://www.bigdatahebdo.com/)
   * **Tagline** : Le podcast de la data
+
+* AXOPEN ([Soundcloud](https://soundcloud.com/axopen), [Google Poadcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjQ1NDkwODQwNS9zb3VuZHMucnNz?sa=X&ved=0CAIQ7dUFahcKEwiAjdWrs47rAhUAAAAAHQAAAAAQAQ))
+  * **Description**: Axopen, c’est des podcasts tous les mois sur le développement et les nouvelles technologies. Partage d'expériences, tips, nouveautés, frameworks, best practices… Tout cela, réalisé par des techos passionnés qui défendent leurs idées ! Certifié sans langue de bois et toujours dans la bonne humeur :)
+  * **Animateur** : 
+  * **Site** : [axopen.com](https://www.axopen.com/)
+  * **Tagline** : Salut à toi qui nous écoutes, et bienvenu sur le poadcast AXOPEN. Le poadcast qui vous parle de développement et nouvelles technologies, le tout réalisé par une bande de techos. Aller on y go!
+
+* Les CODEURS NOMADES
+  * **Description**: Podcast des Codeurs, des Freelances et des nomades digitaux
+  * **Animateur** : Mike Codeur
+  * **Site** : [codeur-nomade.com](https://www.codeur-nomade.com/)
+  * **Tagline** : Je partage avec toi des astuces pour mieux apprendre à coder, des pour trouver plus de missions pour devenir freelance et digital nomade, des idées pour vivre différemment, pour vivre selon tes propres choix.
+
+* WealCome
+  * **Animateur** : Michaël AZERHAD
+  * **Site** : [SoundCloud WealCome](https://soundcloud.com/michael-az-948266686)
+  * **Tagline** : Poadcast parlant d'agilité, du TDD, la Clean Architecture etc.
+
+* Les Talks du Wagon
+  * **Description**:  Chaque semaine, nous invitons un entrepreneur qui nous raconte son parcours, l'histoire de sa startup et nous partage ses ambitions. De leurs échecs retentissants aux coups de génie les plus incroyables, l'idée est de vous montrer l'envers du décor. Bonne écoute !
+  * **Site** : [Les Talks du Wagon](https://feed.pippa.io/public/shows/lewagon)
